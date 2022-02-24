@@ -1,0 +1,92 @@
+@charset "UTF-8";
+h1{
+	text-align: center; 
+	color: Red;
+	font-style: oblique;
+	font-display: block;
+	font-size: 60px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-shadow: 5px 7px 1px lightblue; 
+	
+}
+
+.button {
+	position: absolute;
+	box-shadow: 3px 4px 0px 0px #8a2a21;
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24437 100%);
+	background-color:#c62d1f;
+	border-radius:18px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.button:hover {
+	background:linear-gradient(to bottom, #f24437 5%, #c62d1f 100%);
+	background-color:#f24437;
+}
+.button:active {
+	position:relative;
+	top:1px;
+}
+.yeezy{ 
+position: absolute;
+	top: 120px;
+	right: 50px;
+		}
+.GAGA{
+	position: absolute;
+	top: 400px;
+	left: 500px;
+	color:aliceblue;
+	
+}
+		
+
+.pete{
+	position: absolute;
+	top: 200px;
+}
+.myButton2 {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton2:hover {
+	background-color:#019ad2;
+}
+.myButton2:active {
+	position:absolute;
+	top:1px;
+}
+.myButton2{
+	position:absolute;
+	bottom:550px;
+	left:500px;
+	
+	
+	
+	
+}
+.QR{ 
+position:absolute;
+bottom: 550px;
+	left: 950px;
+}
+
